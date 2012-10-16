@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">record</string>
+    
+    <string name="text_exit_title">确认要退出吗？</string>
+	<string name="bt_cancel">取消</string>
+	<string name="bt_confirm">确认</string>
+	
+	<string name="help">waitingmyself@gmail.com \n\n 版本 1.0</string>
+	
+	<string name="edit_weight_label">体重:</string>
+	<string name="edit_date_label">时间:</string>
+	<string name="edit_save_btn">保存</string>
+
+</resources>
