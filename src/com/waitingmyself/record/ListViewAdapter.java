@@ -14,8 +14,6 @@ import com.waitingmyself.common.util.TimeUtil;
 /**
  * 自定义Adapter
  * 
- * @author kingyee
- * 
  */
 public class ListViewAdapter extends SimpleAdapter {
 
